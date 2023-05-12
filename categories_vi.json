@@ -1,0 +1,1037 @@
+[
+  {
+    "title": "Phổ biến nhất",
+    "icon": "fire",
+    "mods": [
+      {
+        "name": "Plant Vs Zombies",
+        "desc": "Minecraft cũng có rất nhiều quái vật và càng có nhiều xác sống, vì vậy bảo vệ ngôi nhà của bạn khỏi kẻ thù xâm nhập là rất quan trọng. Mod này bao gồm các loại cây sẽ đảm nhận việc bảo vệ cabin của người chơi.",
+        "prev": "previews/others/plant_vs_zombies.jpg",
+        "is_premium": true,
+        "rating": "5",
+        "file_1_path": "mods/others/plant_vs_zombies.mcaddon",
+        "size_1_file": "26.2 mb",
+        "type_1_file": "Addon",
+        "id": "1"
+      },
+      {
+        "name": "TNT",
+        "desc": "Mod TNT++ cho Meincraft Pocket Edition biến một số con quái thành khối TNT. Bạn có thể trao đổi chúng với Demo Man, người cũng sẽ xuất hiện trong add-on này cho Minecraft. Ngoài ra, một số mục sẽ được biến thành vật phẩm nổ.",
+        "prev": "previews/others/TNT_plus_plus.jpg",
+        "is_premium": true,
+        "rating": "4.9",
+        "file_1_path": "mods/others/TNT_plus_plus.mcaddon",
+        "size_1_file": "0.5 mb",
+        "type_1_file": "Addon",
+        "id": "2"
+      },
+      {
+        "name": "Spider-Man: No Way Home 3",
+        "desc": "Bộ phim 'Spider-Man: No Way Home' đã gây ấn tượng cho mọi người. Sáng tạo này xứng đáng thu hút hàng triệu lượt xem và cả triệu đô la tại phòng vé. Và chúng tôi đã xuất bản phiên bản thứ ba của add-on cho Minecraft Bedrock với nhện. Mod Minecraft Spider-Man: No Way Home 3 bao gồm không chỉ ba loại Spider-Man mà còn tất cả bạn bè và kẻ thù của anh ta trong bộ phim này.",
+        "prev": "previews/others/no_way_home_3.jpg",
+        "is_premium": true,
+        "rating": "4.8",
+        "file_1_path": "mods/others/no_way_home_3.mcaddon",
+        "size_1_file": "3.6 mb",
+        "type_1_file": "Addon",
+        "id": "3"
+      },
+      {
+        "name": "Ben 10",
+        "desc": "Ai lại không thích Ben 10? Ai cũng đã mơ ước có được chiếc Omnitrix riêng của mình và học cách biến thành người ngoài hành tinh. Thật không may, cơ hội này không có trong cuộc sống thực, nhưng trong Minecraft PE luôn có các mod! Add-on Ben 10 sẽ không chỉ thêm Omnitrix được khao khát mà còn kẻ thù trong vũ trụ.",
+        "prev": "previews/others/ben_10.jpg",
+        "is_premium": true,
+        "rating": "4.9",
+        "file_1_path": "mods/others/ben_10.mcaddon",
+        "size_1_file": "20.3 mb",
+        "type_1_file": "Addon",
+        "id": "4"
+      },
+      {
+        "name": "Morph Mod",
+        "desc": "Mỗi người chơi đều đã nghĩ về việc thú vị nếu có thể chơi dưới hình dạng một sinh vật khác trong Mynkraft PE, dù đó là một xương sống hay một xác sống. Hoặc có thể có không gian để đi dạo như là một người chết chìm? Mod Morph là giải pháp cho những vấn đề như vậy. Add-on này cho phép người chơi biến hình thành các sinh vật khác.",
+        "prev": "previews/others/morph_mod.jpg",
+        "is_premium": true,
+        "rating": "4.7",
+        "file_1_path": "mods/others/morph_mod.mcaddon",
+        "size_1_file": "0.1 mb",
+        "type_1_file": "Addon",
+        "id": "5"
+      },
+      {
+        "name": "Poppy Playtime 4",
+        "desc": "Nếu bạn là một fan của trò chơi kinh dị, bạn không thể bỏ qua add-on Poppy Playtime 4 cho Minecraft Pocket Edition. Chúng tôi thật sự không biết sự phổ biến của trò chơi này liên quan đến điều gì, nhưng chúng tôi đã xuất bản 4 bài viết về nó. Tự nhiên, như trong tất cả các phiên bản khác, Haggy Waggy và các sinh vật khác sẽ xuất hiện trong thế giới khối.",
+        "prev": "previews/others/poppy_playtime4.jpg",
+        "is_premium": true,
+        "rating": "4.9",
+        "file_1_path": "mods/others/poppy_playtime4.mcaddon",
+        "size_1_file": "19 mb",
+        "type_1_file": "Addon",
+        "id": "6"
+      },
+      {
+        "name": "Mutant Creatures",
+        "desc": "Mod Mutant Creatures thêm các sinh vật đột biến mới, dựa trên các quái vật Minecraft cổ điển. Trò chơi sẽ trở nên khó khăn hơn khi quái vật đột biến, trở nên mạnh hơn và miễn nhiễm với việc bị loại bỏ hoặc tiêu hủy.",
+        "prev": "previews/others/mutant_creatures.jpg",
+        "is_premium": true,
+        "rating": "4.5",
+        "file_1_path": "mods/others/mutant_creatures.mcaddon",
+        "size_1_file": "11.4 mb",
+        "type_1_file": "Addon",
+        "id": "7"
+      },
+      {
+        "name": "Hardcore",
+        "desc": "Mod Hardcore thêm chế độ chơi khó. Add-on cho phép bạn chơi ở chế độ multiplayer. Khi bắt đầu trò chơi, hãy đảm bảo rằng tất cả người dùng đã đăng nhập vào trò chơi, vì sau khi khởi động, người chơi mới chỉ có thể là những người quan sát.",
+        "prev": "previews/others/hardcore.jpg",
+        "is_premium": true,
+        "rating": "4.6",
+        "file_1_path": "mods/others/hardcore_rp.mcpack",
+        "file_2_path": "mods/others/hardcore_bp.mcpack",
+        "size_1_file": "0.2 mb",
+        "size_2_file": "0.1 mb",
+        "type_1_file": "Resource pack",
+        "type_2_file": "Behavior pack",
+        "id": "8"
+      },
+      {
+        "name": "Zombie Apocalypse",
+        "desc": "Mod True Zombie Apocalypse được thiết kế để mang lại cảm giác thật sự của thế giới Minecraft trong thời kỳ tận thế cho mỗi người chơi. Tác giả đã được truyền cảm hứng từ các trò chơi, phim và thậm chí cả loạt phim truyền hình khi phát triển bản dựng này. Sống sót trong một thế giới như vậy sẽ vô cùng khó khăn, vì vậy hãy chuẩn bị cho nó một cách đúng đắn. Mỗi 24 ngày trong trò chơi, số lượng zombie sẽ tăng lên và trở nên mạnh mẽ hơn. Hiện tại, có 4 loại zombie và chúng sẽ săn đuổi người chơi.",
+        "prev": "previews/others/zombie_apocalypse.jpg",
+        "is_premium": true,
+        "rating": "4.9",
+        "file_1_path": "mods/others/zombie_apocalypse_rp.mcpack",
+        "file_2_path": "mods/others/zombie_apocalypse_bp.mcpack",
+        "size_1_file": "8.1 mb",
+        "size_2_file": "0.8 mb",
+        "type_1_file": "Resource pack",
+        "type_2_file": "Behavior pack",
+        "id": "9"
+      },
+      {
+        "name": "Instant Houses",
+        "desc": "Đã quên những ngày người dùng cố gắng xây dựng nhiều ngôi nhà và tạo ra các bản đồ lớn cho người dùng. Bây giờ để xây dựng một biệt thự hoặc lâu đài lớn, người chơi chỉ cần đặt công trình ngay lập tức. Tính năng này giới thiệu mod Instant Houses. Mỗi ngôi nhà không chỉ được trang trí bên ngoài mà còn bên trong. Bây giờ người chơi sẽ có thể xây dựng nhà nhanh chóng và làm những việc khác trong Minecraft.",
+        "prev": "previews/others/instant_houses.jpg",
+        "is_premium": true,
+        "rating": "4.7",
+        "file_1_path": "mods/others/instant_houses_rp.mcpack",
+        "file_2_path": "mods/others/instant_houses_bp.mcpack",
+        "size_1_file": "0.2 mb",
+        "size_2_file": "0.1 mb",
+        "type_1_file": "Resource pack",
+        "type_2_file": "Behavior pack",
+        "id": "10"
+      },
+      {
+        "name": "Backpacks",
+        "desc": "Mod Backpacks thêm một cái ba lô lên lưng người chơi. Ba lô có nhiều ngăn chứa đồ, cho phép người chơi mang theo thậm chí càng nhiều vật phẩm và nguyên liệu không cần thiết trên lưng. Ba lô dễ dàng tháo ra và cũng dễ dàng đeo trở lại. Đề nghị cho tất cả fan của chế độ sống còn.",
+        "prev": "previews/others/backpacks.jpg",
+        "is_premium": true,
+        "rating": "4.6",
+        "file_1_path": "mods/others/backpacks_rp.mcpack",
+        "file_2_path": "mods/others/backpacks_bp.mcpack",
+        "size_1_file": "0.1 mb",
+        "size_2_file": "0.1 mb",
+        "type_1_file": "Resource pack",
+        "type_2_file": "Behavior pack",
+        "id": "11"
+      },
+      {
+        "name": "Portal Gun",
+        "desc": "Mod Portal Gun sẽ cho phép người chơi có được khẩu súng từ trò chơi Portal, mà nhân vật chính đã sử dụng để tạo ra cổng. Cổng đã giúp anh ta thoát khỏi vùng nguy hiểm, và bạn có thể sử dụng chúng cho bất kỳ mục đích nào của bạn: di chuyển động vật, trêu chọc bạn bè của bạn và làm bất cứ điều gì bạn muốn. Các khả năng của khẩu súng cổng chỉ bị giới hạn bởi trí tưởng tượng của bạn.",
+        "prev": "previews/others/portal_gun.jpg",
+        "is_premium": true,
+        "rating": "4.9",
+        "file_1_path": "mods/others/portal_gun.mcaddon",
+        "size_1_file": "5.2 mb",
+        "type_1_file": "Addon",
+        "id": "12"
+      },
+      {
+        "name": "Infinity Gauntlet",
+        "desc": "Infinity Gauntlet là một món đồ mà ai cũng muốn sở hữu. Một chiếc găng tay mạnh mẽ cho phép bạn làm bất cứ điều gì chủ nhân muốn. Mod Infinity Gauntlet thêm chiếc găng tay vào Minecraft. Chủ sở hữu của món đồ này sẽ trở thành người mạnh nhất trong trò chơi. Ngoài găng tay, tất nhiên, còn có các viên đá, được giữ bởi những người bảo vệ đá. Để có được từng viên đá, người chơi sẽ phải chi tiêu tài nguyên hoặc giết một người bảo vệ. Trong cả hai trường hợp, người chơi sẽ phải hi sinh.",
+        "prev": "previews/others/infinity_gauntlet.jpg",
+        "is_premium": true,
+        "rating": "4.7",
+        "file_1_path": "mods/others/infinity_gauntlet.mcaddon",
+        "size_1_file": "0.1 mb",
+        "type_1_file": "Addon",
+        "id": "13"
+      },
+      {
+        "name": "Seeds+",
+        "desc": "Mod Seeds+ bao gồm 8 loại hạt giống mới mà bạn có thể trồng trên đất của bạn. Với add-on này, trồng trọt sẽ trở thành một niềm vui tuyệt đối. Vườn của bạn sẽ trồng những cây đặc biệt không cung cấp thực phẩm mà thay vào đó cung cấp người chơi các vật liệu nhất định: than đá, sắt và thậm chí kim cương. Mỗi loại hạt giống đã được thiết lập với 5 giai đoạn phát triển, bạn phải trải qua trước khi thu hoạch. Bạn không cần phải lo lắng về hạt giống nữa - sau mỗi lần thu hoạch, bạn luôn nhận được ít nhất một hạt giống.",
+        "prev": "previews/others/seeds_plus.jpg",
+        "is_premium": true,
+        "rating": "4.8",
+        "file_1_path": "mods/others/seeds_plus_rp.mcpack",
+        "file_2_path": "mods/others/seeds_plus_bp.mcpack",
+        "size_1_file": "0.1 mb",
+        "size_2_file": "0.1 mb",
+        "type_1_file": "Resource pack",
+        "type_2_file": "Behavior pack",
+        "id": "14"
+      },
+      {
+        "name": "More Food",
+        "desc": "Bạn không thể có quá nhiều thức ăn, đặc biệt vào đêm Giao thừa. Nhà phát triển của mod Lots More Food cũng nghĩ vậy. Nếu bạn cũng thích ăn, add-on này sẽ giới thiệu hơn 200 loại thức ăn mới vào thế giới Minecraft Pocket Edition. Các loại thức ăn mới sẽ giúp khôi phục độ đói và sức khỏe của bạn. Ý tưởng được lấy từ phiên bản trên PC, nơi add-on này rất phổ biến.",
+        "prev": "previews/others/more_food.jpg",
+        "is_premium": true,
+        "rating": "4.6",
+        "file_1_path": "mods/others/more_food.mcaddon",
+        "size_1_file": "0.7 mb",
+        "type_1_file": "Addon",
+        "id": "15"
+      }
+    ]
+  },
+  {
+    "title": "Xe hơi",
+    "icon": "car-multiple",
+    "mods": [
+      {
+        "name": "Mercedes-Benz 300SL",
+        "desc": "Giới thiệu một chiếc xe cổ và cổ điển khác - Mercedes-Benz 300SL. Với mod này, bạn sẽ có thể lái xe trong một chiếc xe đẹp, hiếm hoi, một biểu tượng trong thiết kế giao thông. Chiếc xe có 2 ghế, tốc độ cao, hiệu ứng hoạt hình, âm thanh, đèn pha hoạt động và các tính năng khác.",
+        "prev": "previews/cars/mercedes_300sl.jpg",
+        "is_premium": false,
+        "rating": "4.7",
+        "file_1_path": "mods/cars/mercedes_300sl.mcaddon",
+        "size_1_file": "1.2 mb",
+        "type_1_file": "Addon",
+        "id": "16"
+      },
+      {
+        "name": "Toyota Crown 8",
+        "desc": "Có fan của những chiếc xe cổ điển trong số chúng ta không? Chúng tôi đề xuất bạn sở hữu một chiếc xe cổ với thiết kế thanh lịch và chuyên nghiệp với mod Toyota Crown 8 Addon Car. Chiếc xe cùng tên sẽ xuất hiện trong Minecraft sau khi bạn cài đặt addon này. Mẫu xe này được sản xuất từ năm 1987 đến 1997. Có cả phiên bản xăng và diesel. Trong game, phương tiện này được trang bị hiệu ứng hoạt hình, phun sơn xe, đèn pha hoạt động và thậm chí có 6 tốc độ.",
+        "prev": "previews/cars/toyota_crown8.jpg",
+        "is_premium": false,
+        "rating": "4.6",
+        "file_1_path": "mods/cars/toyota_crown8.mcaddon",
+        "size_1_file": "1 mb",
+        "type_1_file": "Addon",
+        "id": "17"
+      },
+      {
+        "name": "70 Plymouth Superbird",
+        "desc": "Bạn đã từng xem phim hoạt hình Cars chưa? Trong phim hoạt hình này, một trong những chiếc xe đẹp nhất là chiếc Plymouth Superbird màu xanh. Nhiều người muốn có một chiếc xe như vậy trong bộ sưu tập của mình, nhưng nó đã không còn sản xuất từ lâu và có giá rất đắt. Nhưng trong Minecraft, bạn có thể sở hữu một số lượng không giới hạn chiếc xe như vậy với mod 70 Plymouth Superbird. Trong game, mô hình xe này có tốc độ cao, 2 ghế, hiệu ứng hoạt hình và âm thanh. Tác giả đã cố gắng tạo ra một mô hình thực tế nhất và chuyển động mượt mà nhất.",
+        "prev": "previews/cars/70_plymouth.jpg",
+        "is_premium": false,
+        "rating": "4.5",
+        "file_1_path": "mods/cars/70_plymouth.mcaddon",
+        "size_1_file": "1.9 mb",
+        "type_1_file": "Addon",
+        "id": "18"
+      },
+      {
+        "name": "Corvette C8",
+        "desc": "Mod 2023 Corvette C8 Zo6 mang đến cho chúng ta mô hình Corvette cùng tên trong thế giới Minecraft. Trong thế giới khối, chúng ta có thể có một chiếc xe thể thao hoàn toàn miễn phí và số lượng không giới hạn. Tuy nhiên, chúng tôi vẫn không khuyến nghị thêm quá nhiều phương tiện vận chuyển vì có thể gây sự cố trong trò chơi. Trong trò chơi, chiếc xe, tất nhiên, sẽ không đạt được tốc độ cao như trong cuộc sống: chiếc xe đạt tốc độ 100 kilomet mỗi giờ trong 2.8 giây và tốc độ tối đa là 330 kilomet mỗi giờ.",
+        "prev": "previews/cars/corvette_c8.jpg",
+        "is_premium": false,
+        "rating": "4.7",
+        "file_1_path": "mods/cars/corvette_c8.mcaddon",
+        "size_1_file": "0.9 mb",
+        "type_1_file": "Addon",
+        "id": "19"
+      },
+      {
+        "name": "McLaren 720s",
+        "desc": "Với add-on này, bạn sẽ có chiếc xe McLaren 720s cùng tên với mô hình được thiết kế kỹ lưỡng, tốc độ cao và các màu sắc khác nhau. Tổng cộng có 7 màu sắc để lựa chọn. Hãy nhớ rằng đây là một mô hình chi tiết cao, điều đó có nghĩa là bạn không nên mạo hiểm tạo ra nhiều chiếc xe cùng một lúc. Trong trường hợp này, trò chơi có thể gặp sự cố.",
+        "prev": "previews/cars/McLaren_720s.jpg",
+        "is_premium": false,
+        "rating": "4.9",
+        "file_1_path": "mods/cars/McLaren_720s.mcaddon",
+        "size_1_file": "26.5 mb",
+        "type_1_file": "Addon",
+        "id": "20"
+      },
+      {
+        "name": "Simple Vehicles Pack",
+        "desc": "Với Simple Vehicles, bạn có thể thêm tất cả mọi thứ một lúc. Tại sao phải tìm kiếm từng add-on và thêm từng chiếc xe một lần, khi bạn có thể cài đặt ngay lập tức 80 loại xe? Bản build này phù hợp cho việc sử dụng thông thường, cũng như cho các trò chơi nhập vai với các thành phố khổng lồ. Làm đầy thế giới của bạn với các xe hơi, máy bay và thậm chí cả xe tăng để mang lại không khí thực tế cho Minecraft Bedrock.",
+        "prev": "previews/cars/simple_vehicles_pack.jpg",
+        "is_premium": true,
+        "rating": "5",
+        "file_1_path": "mods/cars/simple_vehicles_pack.mcaddon",
+        "size_1_file": "7.5 mb",
+        "type_1_file": "Addon",
+        "id": "21"
+      },
+      {
+        "name": "Maserati MC20",
+        "desc": "Mỗi người trong chúng ta, khi nhìn thấy chiếc Maserati MC20, chắc chắn muốn có được chiếc xe này. Thật không may, đây là một chiếc xe rất đắt tiền mà hầu hết chúng ta sẽ không bao giờ mua được. Vì vậy, để biến ước mơ thành sự thật, bạn có thể thử mod Maserati MC20. Mỗi người trong chúng ta sẽ có thể lái chiếc xe hơi tuyệt vời này trong thế giới Minecraft. Trong trò chơi, phương tiện giao thông sẽ có 5 loại. Mô hình này được thiết kế chi tiết, vì vậy không khuyến nghị tạo ra nhiều xe cùng một lúc: điều này có thể dẫn đến tải trọng trên thiết bị và sự cố tiếp theo.",
+        "prev": "previews/cars/maserati_MC20.jpg",
+        "is_premium": false,
+        "rating": "4.7",
+        "file_1_path": "mods/cars/maserati_MC20.mcaddon",
+        "size_1_file": "4.6 mb",
+        "type_1_file": "Addon",
+        "id": "22"
+      },
+      {
+        "name": "Ferrari Pista",
+        "desc": "Chúng tôi giới thiệu đến sự chú ý của bạn một trong những mô hình ô tô hiện đại đẹp nhất - Ferrari Pista. Chiếc xe sẽ xuất hiện trong Minecraft Bedrock cùng với mod này và sẽ gây ấn tượng với mỗi người dùng. Tác giả đã phát triển phiên bản thứ ba của mô hình này, được phát hành vào năm 2018. Trong trò chơi, bạn có thể lái xe và thậm chí chọn một trong năm gam màu. Lưu ý rằng phương tiện này được thiết kế chi tiết, vì vậy việc thêm yêu cầu thiết bị có công suất cao. Sử dụng bản build cẩn thận.",
+        "prev": "previews/cars/ferrari_pista.jpg",
+        "is_premium": false,
+        "rating": "4.6",
+        "file_1_path": "mods/cars/ferrari_pista.mcaddon",
+        "size_1_file": "3.3 mb",
+        "type_1_file": "Addon",
+        "id": "23"
+      },
+      {
+        "name": "Ford Bronco",
+        "desc": "Mod Ford Bronco giới thiệu mô hình xe cùng tên vào trò chơi. Nếu bạn muốn một chiếc xe đẹp, phong cách và cổ điển để di chuyển xung quanh vũ trụ khối, hãy sử dụng bổ sung này.",
+        "prev": "previews/cars/ford_bronco.jpg",
+        "is_premium": false,
+        "rating": "4.7",
+        "file_1_path": "mods/cars/ford_bronco.mcaddon",
+        "size_1_file": "0.3 mb",
+        "type_1_file": "Addon",
+        "id": "24"
+      },
+      {
+        "name": "Panther Kallista",
+        "desc": "The Callista là một chiếc xe địa hình cổ điển do Panther Westwinds, Anh sản xuất. Công ty ra mắt chiếc xe dưới tên gọi Lima vào năm 1976, nhấn mạnh thiết kế cổ điển của nó. Sau đó, tên đã thay đổi và có nghĩa là nhỏ và xinh đẹp. Hiện nay, mô hình được coi là một hiếm hoi rất hiếm, được ưa chuộng trong giới sưu tầm. Nhưng trong Minecraft PE, bạn có thể nhận được chiếc xe miễn phí khi cài đặt mod Panther Kallista 1992. \n\n<b>Hãy chắc chắn cài đặt cả hai phần của mod: Gói tài nguyên và Gói hành vi</b>",
+        "prev": "previews/cars/panther_kallista.jpg",
+        "is_premium": false,
+        "rating": "4.8",
+        "file_1_path": "mods/cars/panther_kallista.mcpack",
+        "file_2_path": "mods/cars/panther_kallista_rp_1_0_0.mcpack",
+        "size_1_file": "0.1 mb",
+        "size_2_file": "32.4 mb",
+        "type_1_file":"Gói tài nguyên",
+        "type_2_file": "Gói hành vi",
+        "id": "25"
+      },
+      {
+        "name": "Modern Lamborghini",
+        "desc": "Lamborghini là một trong những thương hiệu xe hơi phổ biến nhất trên thế giới. Mọi người đều muốn có một chiếc xe như vậy trong bộ sưu tập của mình, nhưng giá cả của chiếc xe này không cho phép mua được. Nhưng với mod Modern Lamborghini, bạn sẽ có được chiếc xe cá nhân riêng của mình trong Minecraft. Bổ sung giới thiệu những mẫu Lamborghini tiên tiến nhất và mới nhất vào trò chơi. Đối với mỗi mẫu xe, có một số lựa chọn màu sắc, bạn có thể xem trên ảnh chụp màn hình hoặc trong trò chơi. Các mô hình được thiết kế chi tiết cao, do đó có thể gây ra thời gian tải lâu và thậm chí gây crash game.",
+        "prev": "previews/cars/modern_lamborghini.jpg",
+        "is_premium": false,
+        "rating": "5",
+        "file_1_path": "mods/cars/modern_lamborghini.mcaddon",
+        "size_1_file": "19.9 mb",
+        "type_1_file": "Addon",
+        "id": "26"
+      },
+      {
+        "name": "Audi Quattro 84",
+        "desc": "Mod '84 Audi Quattro là cơ hội tiếp theo của bạn để sở hữu một chiếc Audi hoàn toàn mới. Tuy nhiên, nó chỉ mới trong Minecraft. Trên thực tế, mô hình này rất cũ và xuất hiện từ lâu trước khi bạn ra đời. Đằng sau lưng mô hình Audi Quattro - rất nhiều chiến thắng ở các cuộc thi khác nhau. Chiếc xe được sử dụng bởi các tay đua nổi tiếng. Bây giờ nó cũng có sẵn trong thế giới khối. Xe có 2 chỗ ngồi, các hoạt ảnh và âm thanh. Có sẵn các loại khác nhau của cùng một mô hình. Để có được một chiếc, hãy sử dụng lệnh /summon hoặc quay trứng. Để mở cửa, nhấp vào xe và sau đó nhấp lại để vào. Để đóng cửa, bạn phải cúi xuống và nhấp vào xe.",
+        "prev": "previews/cars/audi_quattro.jpg",
+        "is_premium": false,
+        "rating": "4.7",
+        "file_1_path": "mods/cars/audi_quattro.mcaddon",
+        "size_1_file": "1.8 mb",
+        "type_1_file": "Addon",
+        "id": "27"
+      },
+      {
+        "name": "M1151 Humvee",
+        "desc": "Tất cả chúng ta đều muốn lái một chiếc Hummer. Nhưng tại sao bạn không chỉ nhận được một chiếc Humvee, mà còn là một chiếc Humvee quân sự? Đó chính là cơ hội mà mod M1151 Humvee mang lại cho bạn trong Minecraft. Nếu bạn muốn lái một chiếc Humvee với màu sắc giả camuflage, hãy sử dụng bổ sung này. Tác giả đã thêm những hoạt ảnh và tính năng tuyệt vời cho mô hình xe. Ngoài việc mở cửa, các hoạt ảnh bánh xe và nhiều thứ khác, bổ sung còn giới thiệu âm thanh mới cho chiếc xe. Chúng tương ứng chính xác với chiếc xe thực tế. Hãy chắc chắn cài đặt cả bộ phận của mod: Resource pack và Behavior packs",
+        "prev": "previews/cars/M1151_humvee.jpg",
+        "is_premium": false,
+        "rating": "4.9",
+        "file_1_path": "mods/cars/humvee-m1151-bp.mcaddon",
+        "file_2_path": "mods/cars/humvee-m1151-rp.mcaddon",
+        "size_1_file": "0.1 mb",
+        "size_2_file": "1.2 mb",
+        "type_1_file": "Resource pack",
+        "type_2_file": "Behavior pack",
+        "id": "28"
+      },
+      {
+        "name": "Team Hot Wheels ",
+        "desc": "Các chiếc xe Hot Wheels đã trở thành huyền thoại và mỗi người hâm mộ của dòng sản phẩm này đều muốn sở hữu những chiếc xe như vậy. Thật không may, việc sở hữu một chiếc xe như vậy trong thực tế là gần như không thể, nhưng trong thế giới Minecraft - mọi người đều có thể làm được. Mod Team Hot Wheels thêm vào vài loại phương tiện mà bạn có thể lái trong thế giới khối. Chỉ cần lấy chìa khóa và lên đường. Hãy chắc chắn cài đặt cả bộ phận của mod: Resource pack và Behavior packs",
+        "prev": "previews/cars/hot_wheels.jpg",
+        "is_premium": true,
+        "rating": "5",
+        "file_1_path": "mods/cars/hot_wheels_b_pack.mcaddon",
+        "file_2_path": "mods/cars/hot_wheels_r_pack.mcaddon",
+        "size_1_file": "0.8 mb",
+        "size_2_file": "1.3 mb",
+        "type_1_file": "Resource pack",
+        "type_2_file": "Behavior pack",
+        "id": "29"
+      },
+      {
+        "name": "Bugatti Veyron Vitesse",
+        "desc": "Bổ sung Bugatti Veyron Vitesse thêm chiếc Bugatti Veyron Vitesse năm 2013 vào Minecraft. Có nhiều màu sắc và mô hình để lựa chọn, điều đó có nghĩa là bạn sẽ có thể chọn được điều phù hợp với bạn. Ngoài ra, phương tiện này đã nhận được cánh cửa chức năng. Mô hình của chiếc xe được thiết kế tỉ mỉ đến từng chi tiết nhỏ. Nó được biết đến là một trong những mô hình xe tốc độ nhanh nhất tồn tại. Bây giờ bạn sẽ có thể trở thành chủ sở hữu của một chiếc xe như vậy trong trò chơi.",
+        "prev": "previews/cars/bugatti_veyron.jpg",
+        "is_premium": false,
+        "rating": "4.8",
+        "file_1_path": "mods/cars/bugatti_veyron.mcaddon",
+        "size_1_file": "3.7 mb",
+        "type_1_file": "Addon",
+        "id": "30"
+      },
+      {
+        "name": "Minecraft On Wheels Pack",
+        "desc": "Bổ sung Minecraft On Wheels thêm 12 loại phương tiện cho người chơi Minecraft. Trong số đó có xe tải, xe van, xe thương mại, xe cứu hỏa và nhiều loại phương tiện khác. Chúng sẽ phù hợp cho cả việc di chuyển bình thường và trò chơi vai trò trong thế giới khối. Đồng thời, bổ sung này sẽ hoạt động ngay cả trên các thiết bị yếu, nơi con số sức mạnh khá thấp.",
+        "prev": "previews/cars/minecraft_wheels.jpg",
+        "is_premium": true,
+        "rating": "4.9",
+        "file_1_path": "mods/cars/minecraft_wheels.mcaddon",
+        "size_1_file": "0.5 mb",
+        "type_1_file": "Addon",
+        "id": "31"
+      },
+      {
+        "name": "Toyota Hilux N50",
+        "desc": "Mod '87 Toyota Hilux N50 sẽ mang đến cho mọi người cơ hội sở hữu một chiếc Toyota Hilux đẹp mắt. Một thời gian trước đây, mô hình này được coi là rất đáng tin cậy và an toàn, được so sánh với AK-47 trong thế giới của xe hơi. Do đó, chiếc xe thường được sử dụng để vận chuyển hàng hóa nhỏ trong thế giới thực. Bây giờ mỗi người chơi đều có thể có được nó trong MCPE để di chuyển trên những khoảng cách xa. Trong trò chơi, chiếc xe có tốc độ thấp, 2 ghế hành khách, hoạt ảnh và âm thanh cải thiện. Có nhiều màu sắc và ba loại: thông thường, có thùng đóng kín và có thùng chứa hàng nông nghiệp.",
+        "prev": "previews/cars/toyota_hilux.jpg",
+        "is_premium": false,
+        "rating": "4.6",
+        "file_1_path": "mods/cars/toyota_hilux.mcaddon",
+        "size_1_file": "2.4 mb",
+        "type_1_file": "Addon",
+        "id": "32"
+      },
+      {
+        "name": "Lexus Lfa",
+        "desc": "Lexus LFA là một trong những mô hình xe ô tô phổ biến nhất năm 2012. Mô hình này đã giành được sự nổi tiếng với thiết kế tuyệt vời của nó. Bây giờ mỗi người chơi sẽ có thể có được chiếc xe trong trò chơi Minecraft thông qua mod The 2012 Lexus Lfa. Có 5 màu sắc để lựa chọn. Tác giả đã thêm tính năng tương thích RTX: hy vọng bạn có cơ hội này. Tốc độ của xe thực sự ấn tượng: đó là một trong những phương tiện di chuyển tốt nhất trong trò chơi. Có cả âm thanh và cánh cửa hoạt ảnh. \n\n<b>Hãy chắc chắn cài đặt cả bộ phận của mod: Resource pack và Behavior packs</b>",
+        "prev": "previews/cars/lexus_lfa.jpg",
+        "is_premium": false,
+        "rating": "4.8",
+        "file_1_path": "mods/cars/lexus_lfa_bp.mcpack",
+        "file_2_path": "mods/cars/lexus_lfa_rp.mcpack",
+        "size_1_file": "0.1 mb",
+        "size_2_file": "0.4 mb",
+        "type_1_file": "Resource pack",
+        "type_2_file": "Behavior pack",
+        "id": "33"
+      },
+      {
+        "name": "Police Vehicles",
+        "desc": "Nhiều trò chơi vai trò trong Minecraft yêu cầu sự hiện diện của cảnh sát, vì vậy bổ sung Police Vehicles sẽ giúp bạn có được các phương tiện của cảnh sát. Bổ sung bao gồm 6 biến thể xe để làm cho trò chơi vai trò trở nên thậm chí còn chân thực hơn. Các phương tiện sẽ phù hợp ngay cả cho một chuyến đi đơn giản xung quanh thế giới khối. Mỗi phương tiện đã được trang bị các hoạt ảnh, âm thanh và các hiệu ứng khác. \n\n<b>Hãy chắc chắn cài đặt cả bộ phận của mod: Resource pack và Behavior packs</b>",
+        "prev": "previews/cars/police_vehicles.jpg",
+        "is_premium": true,
+        "rating": "4.9",
+        "file_1_path": "mods/cars/police-vehicles.mcaddon",
+        "size_1_file": "2.9 mb",
+        "type_1_file": "Addon",
+        "id": "34"
+      },
+      {
+        "name": "Ferrari F40",
+        "desc": "Chiếc ô tô đỏ huyền thoại của Italy - Ferrari F40, bây giờ sẽ xuất hiện trong Minecraft. Mô hình này là một chiếc siêu xe hai cửa, dẫn động cầu sau với động cơ trung tâm. Nó được sản xuất từ năm 1987 đến 1992. Tổng cộng có 1315 chiếc xe của mẫu này được sản xuất. Trong trò chơi, phương tiện này đã được thiết kế tỉ mỉ đến từng chi tiết nhỏ, với hoạt ảnh tuyệt đẹp và giao diện đơn giản. \n\n<b>Hãy chắc chắn cài đặt cả bộ phận của mod: Resource pack và Behavior packs</b>",
+        "prev": "previews/cars/ferrari_f40.jpg",
+        "is_premium": true,
+        "rating": "4.6",
+        "file_1_path": "mods/cars/f40_b.mcpack",
+        "file_2_path": "mods/cars/f40_r.mcpack",
+        "size_1_file": "0.1 mb",
+        "size_2_file": "0.1 mb",
+        "type_1_file": "Resource pack",
+        "type_2_file": "Behavior pack",
+        "id": "35"
+      }
+    ]
+  },
+  {
+    "title": "Đồ nội thất",
+    "icon": "chair-rolling",
+    "mods": [
+      {
+        "name": "Medieval Furniture",
+        "desc": "Bạn có muốn có đồ nội thất đơn giản cho công trình thời Trung Cổ trong Minecraft không? Bạn khó có thể tìm thấy gì tốt hơn Medieval Furniture mod. Bổ sung này giới thiệu những món đồ nội thất đơn giản nhất được làm từ gỗ. Các yếu tố gợi nhớ về những gì người chơi đã làm mà không cần bổ sung: trước đây, chúng ta đã kết nối cầu thang với tấm để có một chiếc ghế sofa hoặc ghế bành. Nhà phát triển chắc chắn đã lấy ý tưởng này làm cơ sở, nhưng sau đó đã thêm những cải tiến nhỏ vào mô hình.",
+        "prev": "previews/furniture/medieval_furniture.jpg",
+        "is_premium": false,
+        "rating": "4.6",
+        "file_1_path": "mods/furniture/medieval_furniture.mcaddon",
+        "size_1_file": "1.5 mb",
+        "type_1_file": "Addon",
+        "id": "36"
+      },
+      {
+        "name": "Pet Furniture",
+        "desc": "Nếu bạn yêu thích chó và mèo, bạn có thể muốn làm cuộc sống của họ tốt hơn. Đó chính là lý do tại sao có Pet Furniture mod trong Minecraft. Bổ sung này giới thiệu 60 loại đồ nội thất mới được sử dụng cho thú cưng. Ví dụ, bạn sẽ có thể đặt một chiếc chuồng đẹp cho chó của bạn hoặc một cây cào cho mèo của bạn. Bạn chỉ cần đặt một khối đất sét trong máy chế biến đá và chọn khối mong muốn từ danh sách các yếu tố xuất hiện.",
+        "prev": "previews/furniture/pet_furniture.jpg",
+        "is_premium": false,
+        "rating": "4.8",
+        "file_1_path": "mods/furniture/pet_furniture.mcaddon",
+        "size_1_file": "1 mb",
+        "type_1_file": "Addon",
+        "id": "37"
+      },
+      {
+        "name": "Modern Furniture | Survival",
+        "desc": "Ở đây có hơn 530 loại trang trí mà bạn có thể sử dụng để trang bị nhà riêng của mình. Điểm nổi bật chính của bộ sưu tập này là khả năng thu được các mặt hàng ngay cả trong chế độ sinh tồn. Để làm điều này, chỉ cần sử dụng máy chế biến đá và đất sét.",
+        "prev": "previews/furniture/modern_furniture.jpg",
+        "is_premium": true,
+        "rating": "4.9",
+        "file_1_path": "mods/furniture/modern-furniture-rp-5_3.mcpack",
+        "file_2_path": "mods/furniture/modern-furniture-bp-5_3.mcpack",
+        "size_1_file": "1.1 mb",
+        "size_2_file": "2 mb",
+        "type_1_file": "Resource pack",
+        "type_2_file": "Behavior pack",
+        "id": "38"
+      },
+      {
+        "name": "Camouflage Door",
+        "desc": "Bạn có thích tạo ra các căn cứ bí mật trong Minecraft không? Vậy thì một bổ sung không thể thiếu cho điều này sẽ là Camouflage Door mod, bao gồm các loại cửa mới. Đặc điểm của các cửa mới sẽ là các texture sẽ có hình dạng của các khối cụ thể. Đặc điểm này sẽ giúp xây dựng các lối vào ẩn danh tới nhà, bunkers hoặc cấu trúc khác. Hãy nhớ rằng các mục mới sẽ không thay thế cửa thông thường.",
+        "prev": "previews/furniture/camouflage_door.jpg",
+        "is_premium": true,
+        "rating": "5",
+        "file_1_path": "mods/furniture/camouflagedoorrp.mcpack",
+        "file_2_path": "mods/furniture/camouflagedoorbp.mcpack",
+        "size_1_file": "0.1 mb",
+        "size_2_file": "1 mb",
+        "type_1_file": "Resource pack",
+        "type_2_file": "Behavior pack",
+        "id": "39"
+      },
+      {
+        "name": "Kraftoid's Modern Furniture",
+        "desc": "Chúng tôi hy vọng bạn chưa kịp chán những công trình nội thất. Đưa cho bạn một cơ hội khác để trang trí bất kỳ phòng nào trong Minecraft với Kraftoid's Modern Furniture mod. Bộ trang trí bao gồm rất nhiều yếu tố đa dạng: từ sofa đến bàn. Ngoài ra, đã được thêm máy tính chơi game, truyền hình và các thiết bị không thể thiếu để tưởng tượng một ngôi nhà nào đó trong thực tế ngày nay.",
+        "prev": "previews/furniture/kraftoids_modern_furniture.jpg",
+        "is_premium": false,
+        "rating": "4.9",
+        "file_1_path": "mods/furniture/kraftoids_modern_furniture-rp.mcpack",
+        "file_2_path": "mods/furniture/kraftoids_modern_furniture-bp.mcpack",
+        "size_1_file": "2.2 mb",
+        "size_2_file": "1.6 mb",
+        "type_1_file": "Resource pack",
+        "type_2_file": "Behavior pack",
+        "id": "40"
+      },
+      {
+        "name": "Christmas Tree",
+        "desc": "Mod Christmas Tree, bao gồm một cây thông noel và cả một loạt quà tặng. Bạn sẽ có thể tặng quà cho bạn bè của mình, để lại chúng dưới cây. Tạo ra một cây thông noel và đặt nó trong ngôi nhà của bạn: bạn sẽ nhận được những món quà từ Ông già Noel tùy thuộc vào hành vi của bạn trong năm nay.",
+        "prev": "previews/furniture/christmas_tree.jpg",
+        "is_premium": false,
+        "rating": "4.5",
+        "file_1_path": "mods/furniture/christmas_tree.mcaddon",
+        "size_1_file": "0.1 mb",
+        "type_1_file": "Addon",
+        "id": "41"
+      },
+      {
+        "name": "Lamps & Lanterns",
+        "desc": "Lamps và Lanterns là các yếu tố trang trí tạo không khí nhất trong bất kỳ công trình nào trong Minecraft Bedrock. Mod Lamps & Lanterns mang đến các khối đèn cho bạn trang trí nhà cửa, nội thất hoặc các cấu trúc khác với ánh sáng mới.",
+        "prev": "previews/furniture/lamps_lanterns.jpg",
+        "is_premium": false,
+        "rating": "4.8",
+        "file_1_path": "mods/furniture/lamps-lanterns-v1_2-rp.mcpack",
+        "file_2_path": "mods/furniture/lamps-lanterns-v1_2-bp.mcpack",
+        "size_1_file": "0.5 mb",
+        "size_2_file": "0.4 mb",
+        "type_1_file": "Resource pack",
+        "type_2_file": "Behavior pack",
+        "id": "42"
+      },
+      {
+        "name": "Gym Equipment",
+        "desc": "Có lẽ bạn đã xây dựng một phòng tập thể dục gần nhà, nhưng khó khăn khi không có thiết bị phù hợp. Với mod Gym Equipment, bạn sẽ có cơ hội rèn luyện: kéo tạ, nâng tạ hoặc chạy trên máy chạy bộ. Mod bao gồm các loại thiết bị khác nhau cho thể thao trong Minecraft.",
+        "prev": "previews/furniture/gym_equipment.jpg",
+        "is_premium": false,
+        "rating": "4.6",
+        "file_1_path": "mods/furniture/gym-equipment-r.mcpack",
+        "file_2_path": "mods/furniture/gym-equipment-b.mcpack",
+        "size_1_file": "0.5 mb",
+        "size_2_file": "0.1 mb",
+        "type_1_file": "Resource pack",
+        "type_2_file": "Behavior pack",
+        "id": "43"
+      },
+      {
+        "name": "Halloween Decorations",
+        "desc": "Bạn có thể đã xây dựng một phòng tập thể dục gần nhà, nhưng khó khăn khi không có thiết bị phù hợp. Với mod Gym Equipment, bạn sẽ có cơ hội rèn luyện: kéo tạ, nâng tạ hoặc chạy trên máy chạy bộ. Mod bao gồm các loại thiết bị khác nhau cho thể thao trong Minecraft.",
+        "prev": "previews/furniture/halloween_decorations.jpg",
+        "is_premium": true,
+        "rating": "4.7",
+        "file_1_path": "mods/furniture/halloween_decorations.mcaddon",
+        "size_1_file": "1 mb",
+        "type_1_file": "Addon",
+        "id": "44"
+      },
+      {
+        "name": "School Equipments",
+        "desc": "Ngay cả khi bạn không thích đi học nhiều, có lẽ bạn đã nhớ nó qua kỳ nghỉ. Và ngay cả sau một thời gian ngắn trở lại việc học, không phải ai cũng có thời gian để thưởng thức những thay đổi vui vẻ và không khí trường học. Chúng tôi đề xuất cùng nhau tham quan trường học với mod School Equipments cho Minecraft. Mod này cung cấp đồ nội thất trường học.",
+        "prev": "previews/furniture/school_equipments.jpg",
+        "is_premium": false,
+        "rating": "4.6",
+        "file_1_path": "mods/furniture/school-equipments-r-v1-3.mcpack",
+        "file_2_path": "mods/furniture/school-equipments-b-v1-3.mcpack",
+        "size_1_file": "1 mb",
+        "size_2_file": "0.1 mb",
+        "type_1_file": "Resource pack",
+        "type_2_file": "Behavior pack",
+        "id": "45"
+      },
+      {
+        "name": "Home+",
+        "desc": "Trang trí nhà là phần quan trọng nhất trong toàn bộ gameplay của Minecraft. Thực sự mọi thứ đều phụ thuộc vào nó: tâm trạng của bạn, sự thoải mái và do đó khả năng chiến đấu với kẻ thù. Do đó, bạn nên trang bị cho ngôi nhà của mình đúng cách và áp dụng các bổ sung phù hợp cho mục đích này. Mod Home+ sẽ thêm rất nhiều yếu tố trang trí để làm cho cuộc sống sinh tồn dễ dàng và thú vị hơn.",
+        "prev": "previews/furniture/home_plus.jpg",
+        "is_premium": true,
+        "rating": "4.9",
+        "file_1_path": "mods/furniture/homeplus-2_0-rp.mcpack",
+        "file_2_path": "mods/furniture/homeplus-2_0-bp.mcpack",
+        "size_1_file": "2.1 mb",
+        "size_2_file": "0.9 mb",
+        "type_1_file": "Resource pack",
+        "type_2_file": "Behavior pack",
+        "id": "46"
+      },
+      {
+        "name": "Working TV",
+        "desc": "Trang trí nhà là phần quan trọng nhất trong toàn bộ gameplay của Minecraft. Thực sự mọi thứ đều phụ thuộc vào nó: tâm trạng của bạn, sự thoải mái và do đó khả năng chiến đấu với kẻ thù. Do đó, bạn nên trang bị cho ngôi nhà của mình đúng cách và áp dụng các bổ sung phù hợp cho mục đích này. Mod Home+ sẽ thêm rất nhiều yếu tố trang trí để làm cho cuộc sống sinh tồn dễ dàng và thú vị hơn.",
+        "prev": "previews/furniture/working_tv.jpg",
+        "is_premium": false,
+        "rating": "5",
+        "file_1_path": "mods/furniture/workingtv_rp_v1_0_5.mcpack",
+        "file_2_path": "mods/furniture/workingtv_bp_v1_0_5.mcpack",
+        "size_1_file": "20.9 mb",
+        "size_2_file": "0.2 mb",
+        "type_1_file": "Resource pack",
+        "type_2_file": "Behavior pack",
+        "id": "47"
+      },
+      {
+        "name": "Musical Instruments",
+        "desc": "Mod bao gồm hơn 15 loại nhạc cụ, bao gồm một ampli, loa và micro. Nếu bạn đã chán việc tạo ra cây đàn piano từ các khối len và hàng rào, hãy chắc chắn sử dụng bổ sung này để cải thiện nội thất của ngôi nhà. Hầu hết các yếu tố được tạo ra chỉ để trang trí phòng trong các cấu trúc của người dùng. Một số nhạc cụ có âm thanh. Để phát âm thanh, chỉ cần đánh vào nhạc cụ. Dưới đây là danh sách các nhạc cụ và ảnh chụp màn hình.",
+        "prev": "previews/furniture/musical_instruments.jpg",
+        "is_premium": true,
+        "rating": "4.9",
+        "file_1_path": "mods/furniture/musical-instruments-r-v1-0-5.mcpack",
+        "file_2_path": "mods/furniture/musical-instruments-b-v1-0-5.mcpack",
+        "size_1_file": "7.6 mb",
+        "size_2_file": "0.2 mb",
+        "type_1_file": "Resource pack",
+        "type_2_file": "Behavior pack",
+        "id": "48"
+      },
+      {
+        "name": "Casino Craft",
+        "desc": "Nếu bạn luôn muốn đến một sòng bạc hoặc chơi các máy đánh bạc trong Minecraft, hãy sử dụng mod Arcade Craft. Bạn sẽ có thể tạo ra một nơi để gặp gỡ bạn bè của mình hoặc chỉ một công trình đẹp cho thế giới của bạn. Bổ sung bao gồm nhiều máy đánh bạc và cơ chế sòng bạc thú vị.",
+        "prev": "previews/furniture/casino_craft.jpg",
+        "is_premium": false,
+        "rating": "4.8",
+        "file_1_path": "mods/furniture/casino_craft-rp.mcpack",
+        "file_2_path": "mods/furniture/casino_craft-bp.mcpack",
+        "size_1_file": "5.3 mb",
+        "size_2_file": "0.2 mb",
+        "type_1_file": "Resource pack",
+        "type_2_file": "Behavior pack",
+        "id": "49"
+      },
+      {
+        "name": "3D Kitchen Furniture",
+        "desc": "Phòng bếp là phòng quan trọng nhất trong mỗi ngôi nhà. Và sau đó là nhà vệ sinh. Nhưng phòng bếp nên có trong mỗi ngôi nhà. Điều này có nghĩa là nó cần được trang bị và tạo nên không gian thoải mái. Để làm điều này, bạn có thể áp dụng mod 3D Kitchen Furniture cho Minecraft Pocket Edition. Bổ sung này giới thiệu nhiều khối để trang trí phòng bếp.",
+        "prev": "previews/furniture/3d_kitchen_furniture.jpg",
+        "is_premium": true,
+        "rating": "5",
+        "file_1_path": "mods/furniture/3d_kitchen_furniture-rp.mcpack",
+        "file_2_path": "mods/furniture/3d_kitchen_furniture-bp.mcpack",
+        "size_1_file": "1 mb",
+        "size_2_file": "0.1 mb",
+        "type_1_file": "Resource pack",
+        "type_2_file": "Behavior pack",
+        "id": "50"
+      }
+    ]
+  },
+  {
+    "title": "Vũ khí",
+    "icon": "pistol",
+    "mods": [
+      {
+        "name": "Better Guns",
+        "desc": "Nếu bạn muốn có vũ khí cả trong chế độ sinh tồn để tiêu diệt tất cả quái vật trong trò chơi, hãy sử dụng mod Better Guns. Mod này không chỉ hoạt động trong chế độ sinh tồn, mà còn trên máy chủ, điều đó có nghĩa bạn có thể tham gia các trận chiến thực sự với bạn bè trong vũ trụ hình khối.",
+        "prev": "previews/weapons/better_guns.jpg",
+        "is_premium": false,
+        "rating": "4.7",
+        "file_1_path": "mods/weapons/better_guns.mcaddon",
+        "size_1_file": "0.5 mb",
+        "type_1_file": "Addon",
+        "id": "51"
+      },
+      {
+        "name": "Actual Guns CSO",
+        "desc": "Bạn đã chán đánh nhau với những vũ khí cổ điển chưa? Thực ra, chiến đấu vào năm 2023 và sử dụng cung và mũi tên không còn đủ. Nhà phát triển trò chơi nên đã nghĩ đến việc thêm vào những loại vũ khí hiện đại mà không chỉ người dùng mà cả quái vật cũng sử dụng. Tuy nhiên, những tên lửa không tay vẫn sẽ còn bất lực. Với mod Actual Guns CSO, người chơi sẽ có được những loại vũ khí mới và súng. Hơn 100 mục sẽ được thêm vào trò chơi. Các loại vũ khí bao gồm súng lục, súng ngắn và thậm chí cả súng trường. Những loại vũ khí mới này sẽ không thay thế bất kỳ mục nào trong trò chơi.",
+        "prev": "previews/weapons/actual_guns.jpg",
+        "is_premium": true,
+        "rating": "4.9",
+        "file_1_path": "mods/weapons/actualgunsr.mcpack",
+        "file_2_path": "mods/weapons/actualgunsb.mcpack",
+        "size_1_file": "21.8 mb",
+        "size_2_file": "3.3 mb",
+        "type_1_file": "Resource pack",
+        "type_2_file": "Behavior pack",
+        "id": "52"
+      },
+      {
+        "name": "Artillery Craft Mod",
+        "desc": "Bạn có thích phá hủy mọi thứ trong Minecraft không? Chán sử dụng chỉ các khối TNT cho việc đó? Đến lúc tận dụng vũ khí mới với mod Artillery Craft. Mod này thêm vào hai đơn vị mới mà bạn có thể dùng để phá hủy mọi thứ.",
+        "prev": "previews/weapons/artillery_craft.jpg",
+        "is_premium": false,
+        "rating": "4.6",
+        "file_1_path": "mods/weapons/artillery_craft.mcaddon",
+        "size_1_file": "0.7 mb",
+        "type_1_file": "Addon",
+        "id": "53"
+      },
+      {
+        "name": "Simple War Pack",
+        "desc": "Simple War Pack được thiết kế cho những người hâm mộ lớn của PvE và vũ khí. Bộ sưu tập này không chỉ bao gồm các quái vật khác nhau mà còn có các loại súng mạnh mẽ. Mod này hoạt động ngay cả trong chế độ sinh tồn: hầu hết các yếu tố được chế tạo trên bàn làm việc tùy chỉnh.",
+        "prev": "previews/weapons/simple_war.jpg",
+        "is_premium": false,
+        "rating": "4.8",
+        "file_1_path": "mods/weapons/simple_war.mcaddon",
+        "size_1_file": "0.9 mb",
+        "type_1_file": "Addon",
+        "id": "54"
+      },
+      {
+        "name": "3D Guns & Weapon",
+        "desc": "Đến lúc sử dụng những khẩu súng mạnh mẽ có thể tiêu diệt creepers, zombies và ngay cả boss chỉ trong vài giây. Tất cả những điều đó sẽ có sẵn với mod 3D Guns & Weapon trong Minecraft. Mod này bao gồm nhiều loại vũ khí, tất cả được làm theo định dạng đồ họa 3D.",
+        "prev": "previews/weapons/3d_guns_weapon.jpg",
+        "is_premium": true,
+        "rating": "5",
+        "file_1_path": "mods/weapons/3d_guns_weapon.mcaddon",
+        "size_1_file": "1.1 mb",
+        "type_1_file": "Addon",
+        "id": "55"
+      },
+      {
+        "name": "Game Guns",
+        "desc": "Không ai sẽ từ chối một khẩu súng trong Minecraft vì nó mang lại vô số khả năng. Bạn có thể đánh bại các boss chỉ trong vài giây và tiêu diệt quái vật mà không cần tiếp cận gần gũi. Ngoài ra, bạn có thể tổ chức chiến tranh giữa nhiều người chơi với mod Project Homeland. Add-on này giới thiệu 7 loại súng, được làm trong một màu tím khác thường.",
+        "prev": "previews/weapons/game_guns.jpg",
+        "is_premium": false,
+        "rating": "4.7",
+        "file_1_path": "mods/weapons/game_guns.mcaddon",
+        "size_1_file": "7.1 mb",
+        "type_1_file": "Addon",
+        "id": "56"
+      },
+      {
+        "name": "Detailful Guns",
+        "desc": "Mod Detailful Guns giới thiệu vũ khí, khoáng sản, đạn dược và nhiều thứ khác. Sử dụng phiên bản 1.16.200.51 và đừng quên chế độ thử nghiệm. Tất cả các mục đều được chế tạo trong chế độ sinh tồn và có sẵn cho mọi người dùng. Một số mục sẽ khó có được, nhưng hãy kiên nhẫn và sẵn sàng đối mặt với mọi thử thách. Add-on này hoạt động ngay cả trong chế độ nhiều người chơi.",
+        "prev": "previews/weapons/detailful_guns.jpg",
+        "is_premium": true,
+        "rating": "4.9",
+        "file_1_path": "mods/weapons/detailful_guns.mcaddon",
+        "size_1_file": "32.8 mb",
+        "type_1_file": "Addon",
+        "id": "57"
+      },
+
+      {
+        "name": "AceEntities Guns",
+        "desc": "Mod AceEntities bao gồm những thứ hiện đại và khác thường trong thế giới Minecraft, từ vũ khí cho đến sinh vật siêu nhiên.",
+        "prev": "previews/weapons/ace_entities_guns.jpg",
+        "is_premium": false,
+        "rating": "4.6",
+        "file_1_path": "mods/weapons/ace_entities_guns.mcaddon",
+        "size_1_file": "5.1 mb",
+        "type_1_file": "Addon",
+        "id": "58"
+      },
+
+      {
+        "name": "Epic Gun 2D",
+        "desc": "Mod Epic Gun 2D là một bổ sung với vũ khí chất lượng thấp. Được khuyến nghị chỉ sử dụng bản lắp ráp trong chế độ chơi đơn và trận chiến với sinh vật. Trong các thế giới vô hạn, có thể gây chậm trễ. Tất cả đều có sẵn trong chế độ sinh tồn thông qua việc chế tạo.",
+        "prev": "previews/weapons/epic_gun_2d.jpg",
+        "is_premium": false,
+        "rating": "4.5",
+        "file_1_path": "mods/weapons/epic_gun_2d.mcaddon",
+        "size_1_file": "0.7 mb",
+        "type_1_file": "Addon",
+        "id": "59"
+      },
+
+      {
+        "name": "InSaRe's Warfare",
+        "desc": "Một bộ sưu tập lớn về nhiều loại vũ khí khác nhau trong trò chơi - mod InSaRe's Warfare. Tác giả đã làm việc trên bổ sung trong một khoảng thời gian lớn, vì vậy bạn sẽ đánh giá cao những giá trị của nó. Mỗi loại vũ khí đều có những hoạt ảnh độc đáo khi bắn, chạy và nhắm mục tiêu.",
+        "prev": "previews/weapons/insare_warfare.jpg",
+        "is_premium": true,
+        "rating": "4.9",
+        "file_1_path": "mods/weapons/insare_warfare.mcaddon",
+        "size_1_file": "22.2 mb",
+        "type_1_file": "Addon",
+        "id": "60"
+      },
+
+      {
+        "name": "DestinyCraft",
+        "desc": "Mod DestinyCraft thêm vũ khí gần chiến và vũ khí lửa, giúp bạn có thể tiêu diệt kẻ thù trong Meincraft. Hiện tại, bổ sung này không hoạt động trong chế độ sinh tồn: nghĩa là, bạn chỉ có thể có được vũ khí bằng cách sử dụng lệnh hoặc chế độ sáng tạo.",
+        "prev": "previews/weapons/destiny_craft.jpg",
+        "is_premium": false,
+        "rating": "4.6",
+        "file_1_path": "mods/weapons/destiny_craft.mcaddon",
+        "size_1_file": "22.2 mb",
+        "type_1_file": "Addon",
+        "id": "61"
+      },
+
+      {
+        "name": "Arath's Guns",
+        "desc": "Mod Arath's Guns thêm các loại vũ khí vào Meinkraft PE. Sẽ có sự lựa chọn giữa trang bị hiện đại hoặc các vật phẩm được sử dụng trong Thế chiến II. Tất cả điều này đều có sẵn ngay cả trong chế độ sinh tồn thông qua chế tạo hoặc giao dịch.",
+        "prev": "previews/weapons/arath_guns.jpg",
+        "is_premium": true,
+        "rating": "4.8",
+        "file_1_path": "mods/weapons/araths-guns-texturepack.mcpack",
+        "file_2_path": "mods/weapons/araths-guns-behaviorpack.mcpack",
+        "size_1_file": "2.5 mb",
+        "size_2_file": "0.7 mb",
+        "type_1_file": "Resource pack",
+        "type_2_file": "Behavior pack",
+        "id": "62"
+      }
+
+    ]
+  },
+  {
+    "title": "Bóng đổ",
+    "icon": "cloud-question",
+    "mods": [
+      {
+        "name": "ESBE 2G",
+        "desc": "Shaders ESBE 2G được thiết kế để nâng cấp thế giới Minecraft. Với các shaders mới, thiết kế game sẽ tỏa sáng trong những màu sắc mới: nó sẽ trở nên ngày càng dễ chịu và thoải mái hơn khi chơi. \n\nTính năng: \n\nHình ảnh đơn giản \nBản đồ màu sắc sử dụng kỹ thuật đặc biệt \nLá và ánh sáng phản chiếu trên nước \nSao lấp lánh và hoàng hôn tăng cường \nĐám mây đẹp và sự lóng lánh \nThay đổi độ sáng tùy thuộc vào hướng \nBổ sung này phù hợp cho cả phiên bản trên thiết bị cầm tay và PC",
+        "prev": "previews/shaders/esbe_2g.jpg",
+        "is_premium": false,
+        "rating": "4.6",
+        "file_1_path": "mods/shaders/esbe_2g.mcpack",
+        "size_1_file": "0.1 mb",
+        "type_1_file": "Addon",
+        "id": "63"
+      },
+
+      {
+        "name": "OSBES",
+        "desc": "Bổ sung này sẽ mang đến rất nhiều thay đổi, để cho việc lưu trú trong game trở thành một niềm vui thực sự đối với mỗi người dùng. \n\nCác chức năng: \n\nÁnh sáng nâng cao \nCác vật liệu khác nhau \nHiệu ứng nước \nHiệu ứng thời tiết \nHiệu ứng gió \nMây không khí \nTỷ lệ trễ chất lượng tốt nhất \nCác bộ presets và tùy chỉnh",
+        "prev": "previews/shaders/osbes.jpg",
+        "is_premium": false,
+        "rating": "4.7",
+        "file_1_path": "mods/shaders/osbes.mcpack",
+        "size_1_file": "1.7 mb",
+        "type_1_file": "Addon",
+        "id": "64"
+      },
+
+      {
+        "name": "Mr. Fishy",
+        "desc": "Shaders tuyệt vời của Mr. Fishy bao gồm nhiều kỹ thuật khác nhau để cập nhật đồ họa trong trò chơi. Ví dụ, ánh sáng toàn cầu mềm mại làm cho các đối tượng sâu hơn rất nhiều, chứ không chỉ tạo ra bóng đổ. \n\nTính năng: \n\nĐộ sáng được khuyến nghị từ 0-25. \nBảng màu sắc tươi sáng \nBầu trời tùy chỉnh \nHạt tiên tiến \nRay tracing tùy chỉnh",
+        "prev": "previews/shaders/mr_fishy.jpg",
+        "is_premium": true,
+        "rating": "4.9",
+        "file_1_path": "mods/shaders/mr_fishy.mcpack",
+        "size_1_file": "32.8 mb",
+        "type_1_file": "Addon",
+        "id": "65"
+      },
+
+      {
+        "name": "Spectrum",
+        "desc": "Spectrum là một bổ sung tuyệt vời cho hầu hết các thiết bị sử dụng Minecraft. \n\nTính năng: \n\nBảng màu thế giới \nÁnh sáng sáng \nBầu trời đẹp và thực tế \nBóng (dưới khối) \nNước thực tế \nSóng và nước lăn \nLá và cây rung \nPhản chiếu của mặt trời trên nước (mặt trời mọc/mặt trời lặn) \nSương mù trong Thế giới Dưới và Biên",
+        "prev": "previews/shaders/spectrum.jpg",
+        "is_premium": true,
+        "rating": "4.8",
+        "file_1_path": "mods/shaders/spectrum.mcpack",
+        "size_1_file": "2 mb",
+        "type_1_file": "Addon",
+        "id": "66"
+      },
+
+      {
+        "name": "Zebra",
+        "desc": "Shaders Zebra sẽ làm say lòng các game thủ của Meincraft Pocket Edition. Giống như bất kỳ shaders nào khác, bổ sung này được thiết kế để cải thiện đồ họa trong thế giới khối. Đồng thời, mỗi phiên bản đều có tính năng độc đáo riêng của nó: ở đây, ví dụ, tính năng giảm độ sáng được triển khai, làm cho mọi thứ trở nên bí ẩn và dễ chịu hơn rất nhiều. \n\nCác tính năng: \n\nNhiều bảng màu sắc \nMưa và sương mù \nBầu trời đêm cổ tích và ngôi sao \nNước trong suốt \nSóng lá. \nMặt trời và mặt trăng được cải thiện",
+        "prev": "previews/shaders/zebra.jpg",
+        "is_premium": false,
+        "rating": "4.4",
+        "file_1_path": "mods/shaders/zebra.mcpack",
+        "size_1_file": "0.1 mb",
+        "type_1_file": "Addon",
+        "id": "67"
+      },
+
+      {
+        "name": "Newb",
+        "desc": "Một gói shader thẩm mỹ cho Minecraft PE. Shader này tập trung vào cải thiện shader vanilla hiện có để trông thẩm mỹ và thực tế hơn mà không làm hỏng lối chơi hiện có hoặc hy sinh hiệu suất nhiều.",
+        "prev": "previews/shaders/newb.jpg",
+        "is_premium": true,
+        "rating": "4.6",
+        "file_1_path": "mods/shaders/newb.mcpack",
+        "size_1_file": "0.2 mb",
+        "type_1_file": "Addon",
+        "id": "68"
+      },
+
+      {
+        "name": "Parallax",
+        "desc": "Parallax Shader là một dự án nhằm tạo ra các shader sống động và thực tế nhất cho Minecraft Bedrock Edition. Những shader này nhằm cung cấp trải nghiệm hình ảnh sống động và tạo cảm giác mô phỏng ray tracing tĩnh thông qua các kỹ thuật mô phỏng chi tiết. \n\nCác tính năng: \n\nThời tiết & ánh sáng thực tế, rõ ràng, sặc sỡ \nHiệu ứng nước, màu sắc & độ trong suốt thực tế \nPhản chiếu và chiếu sáng thực tế \nThời gian đêm và bóng tối thực tế",
+        "prev": "previews/shaders/parallax.jpg",
+        "is_premium": true,
+        "rating": "4.8",
+        "file_1_path": "mods/shaders/parallax.mcpack",
+        "size_1_file": "2.4 mb",
+        "type_1_file": "Addon",
+        "id": "69"
+      },
+
+      {
+        "name": "Capricorn PE",
+        "desc": "Capricorn PE Shaders là một bộ cho Meinkraft. Bổ sung này đã nhận được nhiều tính năng để làm cho thế giới khối tốt hơn, nhưng đồng thời sẽ không tạo ra sự trễ hoặc giật. \n\nCác tính năng: \n\nÁnh sáng màu sắc \nBóng tự nhiên \nSóng biển \nLá cây lay động \nÁnh sáng ban ngày và ban đêm \nBầu trời được cập nhật \nBảng màu mới \nHiện thị sương mù dày \nBóng từ các bên của khối \nMưa đậm \nChế độ Exposure tự động",
+        "prev": "previews/shaders/capricorn_pe.jpg",
+        "is_premium": false,
+        "rating": "4.4",
+        "file_1_path": "mods/shaders/capricorn_pe.mcpack",
+        "size_1_file": "0.1 mb",
+        "type_1_file": "Addon",
+        "id": "70"
+      }
+
+    ]
+  },
+  {
+    "title": "Động vật",
+    "icon": "animal",
+    "mods": [
+      {
+        "name": "World Wild Animals",
+        "desc": "Mod World Wild Animals thêm rất nhiều loài động vật mới vào Meincraft. Mỗi loài động vật sẽ có các đặc điểm, hành vi, tính chất và tất nhiên là mô hình riêng biệt. \n\nMod bao gồm các loài động vật sau: \n\nGấu nâu \nChim \nCáy \nRùa \nBọ cạp \nKangaroo \nvà còn nhiều loài khác...",
+        "prev": "previews/animals/wild_animals.jpg",
+        "is_premium": false,
+        "rating": "4.9",
+        "file_1_path": "mods/animals/wild_animals.mcaddon",
+        "size_1_file": "18.4 mb",
+        "type_1_file": "Addon",
+        "id": "71"
+      },
+      {
+        "name": "Animals of the Past",
+        "desc": "Chúng tôi mời bạn đến với thế giới tiền sử của Meincraft với mod Animals of the Past: trò chơi sẽ có 114 quái vật mới từng tồn tại trên hành tinh của chúng ta. Thật đáng tiếc, chúng chỉ còn tồn tại trong sách và trong vũ trụ khối. Tác giả đã thêm khả năng tương tác với chúng: một số quái vật có thể được thuần hóa và trở thành bạn. Tất cả quái vật sinh tồn tự nhiên. Một số có thể được thuần hóa, và một số thậm chí có thể được cưỡi.",
+        "prev": "previews/animals/animals_past.jpg",
+        "is_premium": true,
+        "rating": "4.6",
+        "file_1_path": "mods/animals/animals_past.mcaddon",
+        "size_1_file": "2.5 mb",
+        "type_1_file": "Addon",
+        "id": "72"
+      },
+      {
+        "name": "Lot of Animals Addon",
+        "desc": "Mod Lot of Animals Addon giới thiệu một số lượng lớn các loài động vật mới, trong đó hầu hết đều rất hung dữ nhưng vẫn khá dễ thuần hóa nếu bạn tìm cách tiếp cận. Một số loài động vật thậm chí cho phép bạn cưỡi chúng nếu được thỏa thuận một cách đúng đắn.",
+        "prev": "previews/animals/lot_of_animal.jpg",
+        "is_premium": true,
+        "rating": "4.7",
+        "file_1_path": "mods/animals/lot_of_animal.mcaddon",
+        "size_1_file": "5.2 mb",
+        "type_1_file": "Addon",
+        "id": "73"
+      },
+      {
+        "name": "NoxAnimals",
+        "desc": "Ai lại không thích động vật? Đặc biệt là các loài động vật trong Meinkraft, luôn thân thiện và thú vị theo cách riêng của chúng. Mod NoxAnimals chứa những sinh vật kỳ lạ và không thông thường sẽ xuất hiện khắp thế giới. Mỗi loài có các mô hình và đặc điểm riêng: \n\nTôm \nHồng hạc \nManatee \nGấu lùn đỏ \nCánh cụt \nTapir \nvà những loài khác",
+        "prev": "previews/animals/nox_animals.jpg",
+        "is_premium": false,
+        "rating": "4.5",
+        "file_1_path": "mods/animals/nox_animals.mcaddon",
+        "size_1_file": "0.7 mb",
+        "type_1_file": "Addon",
+        "id": "74"
+      },
+      {
+        "name": "Luis Animal's",
+        "desc": "Bạn không thể có quá nhiều động vật trong Minecraft. Càng nhiều động vật, cuộc sống sinh tồn càng thú vị. Bạn có thể ăn một số trong số chúng, kết bạn với những con khác và với những con còn lại, bạn sẽ chiến đấu đến chết. Đó là lý do tại sao bạn chắc chắn cần cài đặt mod Luis Animal's, với 15 loại động vật mới. Mỗi loài đều có đặc điểm và tính năng riêng. Tất cả các sinh vật được sinh ra trong khu rừng.",
+        "prev": "previews/animals/luis_animals.jpg",
+        "is_premium": false,
+        "rating": "4.6",
+        "file_1_path": "mods/animals/luis_animals.mcaddon",
+        "size_1_file": "1.5 mb",
+        "type_1_file": "Addon",
+        "id": "75"
+      },
+      {
+        "name": "Animals Pets",
+        "desc": "Nếu bạn yêu động vật, bạn chắc chắn không thể bỏ qua mod AnimalsPets, nó thêm vào nhiều giống chó, mèo và thậm chí là bồ câu mới.\n\nMỗi con chó có thể được thuần hóa bằng xương. \nMèo có thể được thuần hóa bằng cá hồi. \nBồ câu có thể được thuần hóa bằng lúa mì. \nTất cả động vật xuất hiện khắp thế giới.",
+        "prev": "previews/animals/animals_pets.jpg",
+        "is_premium": true,
+        "rating": "4.9",
+        "file_1_path": "mods/animals/animals_pets.mcaddon",
+        "size_1_file": "0.9 mb",
+        "type_1_file": "Addon",
+        "id": "76"
+      }
+    ]
+  },
+  {
+    "title": "Rồng",
+    "icon": "dragon",
+    "mods": [
+      {
+        "name": "Alylica's Dragons",
+        "desc": "Bạn có lẽ đã mơ về việc tìm được Quả Trứng Rồng một ngày nào đó, để bạn có thể nuôi con rồng nhỏ an toàn thành một con quái vật khổng lồ. Tự nhiên, điều này có sẵn trong thế giới Minecraft Pocket Edition với mod Alylica's Dragons: bạn sẽ có thể tìm thấy quả trứng, chờ con non nở, và sau đó nuôi lớn để cưỡi. \n\nLàm thế nào để hoạt động? \n\nĐầu tiên, bạn phải đánh bại Rồng Cạnh và nhận được quả trứng. \nQuả trứng cũng có thể được tìm thấy trong Hòm Của Các Cấu Trúc Hiếm \nBạn có thể thay đổi tần suất xuất hiện của quả trứng trong Hòm trong các tùy chọn add-on \nĐặt quả trứng và tương tác với nó. \nSau một thời gian, các hạt sẽ xuất hiện từ đó và Rồng sẽ nở. \nHãy bảo vệ quả trứng cẩn thận vì quái vật săn đuổi nó. \nLoại Rồng phụ thuộc vào vùng sinh thái \nMất 25 phút để nở",
+        "prev": "previews/dragons/alylica_dragons.jpg",
+        "is_premium": false,
+        "rating": "4.7",
+        "file_1_path": "mods/dragons/alylica_dragons.mcaddon",
+        "size_1_file": "2.8 mb",
+        "type_1_file": "Addon",
+        "id": "77"
+      },
+      {
+        "name": "Elemental Dragons",
+        "desc": "Mod Elemental Dragons giới thiệu 4 loại rồng vào thế giới Minecraft. Mỗi loại rồng đều có kỹ năng và đặc điểm riêng. Ban đầu, tất cả đều thù địch, nhưng bạn có thể thuần hóa chúng để có được rồng của riêng mình. Hơn nữa, sau khi thuần hóa, bạn có thể cưỡi chúng, giúp di chuyển dễ dàng hơn. \n\nCác loại rồng: \n\nLửa \nBăng \nU ám \nThiên thể",
+        "prev": "previews/dragons/elemental_dragons.jpg",
+        "is_premium": true,
+        "rating": "4.9",
+        "file_1_path": "mods/dragons/elemental_dragons_rp.mcpack",
+        "file_2_path": "mods/dragons/elemental_dragons_bp.mcpack",
+        "size_1_file": "1.1 mb",
+        "size_2_file": "0.1 mb",
+        "type_1_file": "Resource pack",
+        "type_2_file": "Behavior pack",
+        "id": "78"
+      },
+      {
+        "name": "Night Dragons",
+        "desc": "Mod Rồng Đêm thêm khả năng thuần hóa một số rồng và cưỡi chúng trong thế giới block. Chỉ có hai loại rồng khả dụng. \n\nRồng Đêm: \n\nĐầu tiên, bạn cần tìm một tay lính khảo sát ban đêm, sinh sống trong vùng đồi cao vào ban đêm (mob trung lập) \nSau đó, bạn phải chiến đấu với anh ta: nếu anh ta bị đánh bại, anh ta sẽ ngủ cùng với nhiều binh lính đêm khác, bao gồm cả chỉ huy của họ. \nNếu bạn giết chỉ huy, bạn sẽ nhận được quả trứng rồng ngủ. \nSau đó, bạn có thể thuần hóa rồng với một miếng cá hồi. \nRồng có hiệu ứng tầm nhìn đêm vĩnh viễn. \nCác vật phẩm hữu ích có thể được tìm thấy dưới nơi mà một tay lính đêm ngủ. \nThả quà từ rồng",
+        "prev": "previews/dragons/night_dragons.jpg",
+        "is_premium": false,
+        "rating": "4.8",
+        "file_1_path": "mods/dragons/night_dragons.mcaddon",
+        "size_1_file": "3.7 mb",
+        "type_1_file": "Addon",
+        "id": "79"
+      },
+      {
+        "name": "Rồng của Thời Đại Thứ Ba",
+        "desc": "Chào mừng bạn đến với thế giới mới của Meinkraft, nơi đầy ma thuật, thời Trung Cổ và những con rồng. Nếu bạn thích những điều như vậy, hãy cài đặt mod Rồng của Thời Đại Thứ Ba. Add-on giới thiệu các sinh vật mới, nhiệm vụ và nhiều hơn thế nữa. \n\nChìa khóa đầu tiên: \n\nChế tạo chìa khóa theo công thức và đặt nó giữa các cấp độ 60 và 70 \nChờ một vài giây cho thiên thần hát ca \nNhìn lên để khám phá hòn đảo ma thuật đầu tiên \nLeo lên đỉnh và bạn sẽ tìm thấy một cây thực vật độc \nBạn phải đánh bại cây thực vật để tiếp cận thác nước và lấy quả trứng rồng. \nRồng bay: \n\nRồng chỉ xuất hiện trong một thời gian ngắn, vì vậy bạn cần thuần hóa nhanh chóng. \nHãy để mắt đến quả trứng để không bỏ lỡ rồng. \nSử dụng táo vàng để tăng tốc quá trình trưởng thành của rồng. \nRồng ngủ sau khi mặt trời lặn. \nBạn có thể cưỡi và thậm chí mặc áo giáp (chỉ có áo giáp sắt).",
+        "prev": "previews/dragons/dragons_third_age.jpg",
+        "is_premium": false,
+        "rating": "5",
+        "file_1_path": "mods/dragons/dragons_third_age.mcaddon",
+        "size_1_file": "2.2 mb",
+        "type_1_file": "Addon",
+        "id": "80"
+      },
+
+      {
+        "name": "Kỷ Nguyên Rồng",
+        "desc": "Mod Kỷ Nguyên Rồng bao gồm các loại quái vật huyền thoại mới. Bạn sẽ có thể chiến đấu với những con khổng lồ bay, đánh cắp trứng của chúng và ấp trứng rồng của riêng bạn để phục vụ bạn trung thành. Tổng cộng sẽ xuất hiện bốn loại rồng: rồng đỏ, rồng xanh, rồng đen và rồng vàng. Quái vật có bốn loại tấn công. Rồng đực không có đặc điểm đặc trưng, trong khi rồng cái thường phun lửa và đẻ trứng.",
+        "prev": "previews/dragons/reign_of_dragons.jpg",
+        "is_premium": true,
+        "rating": "4.6",
+        "file_1_path": "mods/dragons/reign_of_ragons_rp.mcpack",
+        "file_2_path": "mods/dragons/reign_of_ragons_bp.mcpack",
+        "size_1_file": "1 mb",
+        "size_2_file": "0.1 mb",
+        "type_1_file": "Addon",
+        "type_2_file": "Addon",
+        "id": "81"
+      },
+
+      {
+        "name": "Rồng Cưỡi",
+        "desc": "Bạn yêu rồng à? Sau đó hãy tải xuống và cài đặt mod Dragon Mounts cho Minecraft Bedrock, giúp thêm vào game nhiều con rồng đẹp mắt. Bạn sẽ có thể sử dụng chúng để bay hoặc tiêu diệt kẻ thù. \n\nLàm thế nào để hoạt động? \n\nMỗi con rồng có các thanh nguyên liệu riêng của nó, được sử dụng để thụ tinh trứng. Trứng, lúc đó, có thể được lấy từ một người chăm sóc rồng, người sẽ là một trong những người dân mới (bạn có thể tìm thấy ông ta ở các ngôi làng). \nThời gian để trứng thụ tinh nở khoảng 8 phút. Sau 6 phút, bạn sẽ thấy trứng bắt đầu nứt. Điều này có nghĩa là nó đã sẵn sàng nở.",
+        "prev": "previews/dragons/dragon_mounts.jpg",
+        "is_premium": true,
+        "rating": "4.7",
+        "file_1_path": "mods/dragons/dragon_mounts.mcaddon",
+        "size_1_file": "0.8 mb",
+        "type_1_file": "Addon",
+        "id": "82"
+      }
+    ]
+  }
+]
