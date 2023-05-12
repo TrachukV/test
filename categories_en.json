@@ -16,7 +16,7 @@
       },
       {
         "name": "TNT",
-        "desc": "The TNT++ modification for Maincraft Pocket Edition turns some of the mobs into TNT blocks. You can trade for them with the Demo Man, who will also appear in this add-on for Minecraft. In addition, some items will be turned into explosive items. ",
+        "desc": "The TNT++ modification for Meincraft Pocket Edition turns some of the mobs into TNT blocks. You can trade for them with the Demo Man, who will also appear in this add-on for Minecraft. In addition, some items will be turned into explosive items. ",
         "prev": "previews/others/TNT_plus_plus.jpg",
         "is_premium": true,
         "rating": "4.9",
@@ -494,7 +494,6 @@
         "type_2_file": "Behavior pack",
         "id": "40"
       },
-
       {
         "name": "Christmas Tree",
         "desc": "Christmas Tree mod, which contains a Christmas tree and even a variety of presents. You'll be able to give gifts to your friends, leaving them under the tree. Create a Christmas tree and place it in your home: you will receive gifts from Santa Claus depending on your behavior this year.",
